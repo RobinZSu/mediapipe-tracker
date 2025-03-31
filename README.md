@@ -12,7 +12,7 @@ Assuming you're using windows, simply download and run the latests `mp_tracker.e
 
 You may also find in this repository a `opentrack_config.ini` which includes my mapping setting in opentrack.
 
-To reset / re-centre position and rotation, press <r>.
+To reset / re-centre position and rotation, press `<r>`.
 
 ## Building / Running from Source 
 
